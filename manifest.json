@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Java Translate lang zh",
+		"description": "Java Translate lang zh made by hei bai ling",
+		"uuid": "676494be-bd55-4a1c-ac33-634c37d00f15",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+        {
+            "description": "resourcePack.vanilla.description",
+            "type": "resources",
+            "uuid": "c5fb5f2b-e625-4fbb-b8df-2b374f6e5501",
+            "version": [0, 0, 1]
+        }
+    ]
+}
